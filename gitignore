@@ -1,0 +1,11 @@
+# Ignorar modelos e arquivos pesados
+*.pkl
+*.csv
+
+# Cache Python
+__pycache__/
+*.py[cod]
+
+# Outros
+.DS_Store
+.env
